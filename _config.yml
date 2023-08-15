@@ -17,7 +17,7 @@ title: Introduction to Database Systems
 tagline: CSC230
 description: Homepage for the Fall 2023 Semester
 author: Halie Rando
-baseurl: '/Smith-CSC230' # the subpath of your site, e.g. /blog
+baseurl: '/CSC230-fall23' # the subpath of your site, e.g. /blog
 url: 'Smith-CSC230.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
