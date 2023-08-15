@@ -1,23 +1,24 @@
 ---
-title: Introduction to Java
+title: Thinking about Data
 ---
 
-Sep 28
+Monday, Sep 11
 : [Java & Git](#)
   : [1.1](#)
 
-Sep 29
+Wednesday, Sep 13
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
+Monday, Sep 18
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+Wednesday, Sep 20
 : **Lab**{: .label .label-purple } [Intro to Java](#)
+: **HW 1 due**{: .label .label-red }
 
-Oct 2
+Monday, Sep 25
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+
