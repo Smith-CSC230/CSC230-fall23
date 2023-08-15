@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: CSC230
 nav_exclude: true
 permalink: /:path/
 seo:
