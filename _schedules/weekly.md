@@ -19,6 +19,7 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: Sunday
   - name: Monday
     events:
       - name: Lecture
@@ -43,4 +44,5 @@ schedule:
         start: 1:30 PM
         end: 2:30 PM
         location: Bass 109
+  - name: Saturday
 ---
